@@ -1,0 +1,39 @@
+<!-- FOUR position -->
+<!-- 1. static (default) -->
+<!-- 2. relative -->
+<!-- 3. absolute -->
+<!-- 4. fixed -->
+
+<!-- STATIC -->
+<!-- default, inline elements are placed left to right block elements are placed top to bottom -->
+
+<!-- RELATVE -->
+<!-- goes to the same spot, allows OFFSETING -->
+<!-- bottom -->
+<!-- right -->
+<!-- left -->
+<!-- top -->
+
+
+ABSOLUTE
+*removes* an element from normal flow
+
+
+FIXED
+stay EXACTLY where I placed it
+
+
+Z-INDEX
+sets the order of overlapping elements
+default value is 0
+
+
+
+
+
+
+
+
+
+
+
